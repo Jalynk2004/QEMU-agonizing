@@ -14,6 +14,6 @@ https://hackmd.io/@Broder/kernel_security
 
 https://hackmd.io/@Broder/qemu
 
-## QEMU writeups:
+## QEMU escape writeups:
 
 `To be updated`
